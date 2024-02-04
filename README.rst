@@ -3,7 +3,9 @@ qemu-console readme
 -------------------
 qemu-console is a fork of qemu with the goal of having support for many consoles and systems.
 
-# To-Be-Supported systems
+-------------------
+to be supported
+-------------------
 NES
 SNES
 N64
